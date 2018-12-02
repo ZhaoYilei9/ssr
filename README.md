@@ -1,8 +1,6 @@
 # ssr
 ssr config
 
-https://www.jianshu.com/p/c336fd0bdfbe
-
 ### 下载SSR客户端
 
 ```
